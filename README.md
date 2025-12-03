@@ -1,2 +1,2 @@
-# Sorting-Visualizer 2
+# Sorting-Visualizer
 python 
